@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8355" started-at="2022-03-24T14:50:48 UTC" finished-at="2022-03-24T14:50:56 UTC">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="8355" started-at="2022-03-24T14:50:48 UTC" finished-at="2022-03-24T14:50:56 UTC">
+      <class name="mavenforjenkins.UITest">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:mavenforjenkins.UITest@6e0e048a]" name="startBrowser" duration-ms="8330" started-at="2022-03-24T14:50:48 UTC" finished-at="2022-03-24T14:50:56 UTC">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+      </class> <!-- mavenforjenkins.UITest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
